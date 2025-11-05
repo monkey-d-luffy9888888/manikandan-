@@ -1,0 +1,5 @@
+{
+  "name": "Product Attribute Extractor",
+  "description": "An application to upload an Excel sheet of product SKUs and links, fetch product attributes using AI, and export the combined data as a CSV file.",
+  "requestFramePermissions": []
+}
